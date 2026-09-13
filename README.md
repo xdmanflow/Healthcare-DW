@@ -1,4 +1,4 @@
-# CHU Healthcare Data Warehouse – Big Data Decision Support Project in the French Healthcare System
+# CHU Healthcare Data Warehouse – Big Data Decision Support Project
 
 > Big Data & Business Intelligence project developed for **CHU (Cloud Healthcare Unit)** — built for scalable, secure healthcare data integration and decision support.
 
